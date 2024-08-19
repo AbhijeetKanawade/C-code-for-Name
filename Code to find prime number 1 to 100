@@ -4,3 +4,4 @@ int main() {
 for (int i = 2; i <= 100; i += 2) { console.log(i); }
     return 0;
 }
+For the name printing you must use other code
